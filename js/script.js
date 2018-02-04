@@ -1,6 +1,3 @@
-function addEventListener(param) {
-  console.log(param);
-}
 var list = document.getElementById('list'),
     add = document.getElementById('addElem');
 
